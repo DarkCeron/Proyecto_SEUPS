@@ -1,0 +1,122 @@
+c:\users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.exe.config
+c:\users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Login.resources
+c:\users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Resources.resources
+c:\users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.vbproj.GenerateResource.Cache
+c:\users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.exe
+c:\users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.pdb
+c:\users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.xml
+c:\users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.exe
+c:\users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.xml
+c:\users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.pdb
+c:\users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Baterias.resources
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.MenuPrincipal.resources
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Programa.resources
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Respaldos.resources
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Usuarios.resources
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.ReiniciarDB.resources
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Sucursales.resources
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.vbprojResolveAssemblyReference.cache
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.exe.manifest
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.application
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.exe.manifest
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.application
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.UPSs.resources
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Mantenimientos.resources
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.exe.config
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.exe
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.xml
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.pdb
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.exe.manifest
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.application
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.exe
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.pdb
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.xml
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.vbprojResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Baterias.resources
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Login.resources
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Mantenimientos.resources
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.MenuPrincipal.resources
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Resources.resources
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Programa.resources
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.ReiniciarDB.resources
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.ReportePrograma.resources
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Respaldos.resources
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Sucursales.resources
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.UPSs.resources
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Usuarios.resources
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.vbproj.GenerateResource.Cache
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\RdlCompile.cache
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\RdlCompile.compiled
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.exe.manifest
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.application
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Form1.resources
+C:\Users\Cesar\Desktop\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.ReporteServicio.resources
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Form1.resources
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.ReporteServicio.resources
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\lalo\documents\visual studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.vbproj.ResolveComReference.cache
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.exe.config
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.exe.manifest
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.application
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.exe
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.pdb
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.xml
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.vbproj.ResolveComReference.cache
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Baterias.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Login.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Mantenimientos.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.MenuPrincipal.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Programa.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.ReiniciarDB.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.ReporteCliente.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.ReporteEmpresa.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Respaldos.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Sucursales.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.UPSs.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Usuarios.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.vbproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.exe.manifest
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.application
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.exe
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.xml
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\PROYECTO-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.pdb
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.exe.config
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.vbproj.ResolveComReference.cache
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.exe
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.xml
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.pdb
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.exe.manifest
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.application
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.exe
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.pdb
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\bin\Debug\PROYECTO-SEUPS.xml
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.vbprojResolveAssemblyReference.cache
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Baterias.resources
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Login.resources
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Mantenimientos.resources
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.MenuPrincipal.resources
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Resources.resources
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Programa.resources
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.ReiniciarDB.resources
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.ReporteCliente.resources
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.ReporteEmpresa.resources
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Respaldos.resources
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Sucursales.resources
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.UPSs.resources
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO_SEUPS.Usuarios.resources
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.vbproj.GenerateResource.Cache
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.exe.manifest
+C:\Users\Cesar\Documents\Generador-De-Reportes-SEUPS\PROYECTO-SEUPS\obj\Debug\PROYECTO-SEUPS.application
